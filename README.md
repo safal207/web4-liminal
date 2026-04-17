@@ -31,6 +31,7 @@ python scripts/validate_repo.py
 
 - `docs/CARE-STACK-RFC.md` - core conceptual RFC
 - `docs/ARCHITECTURE.md` - layer-by-layer architecture walkthrough
+- `docs/product/` - one-pager, pilot SOW, and landing template artifacts
 - `spec/README.md` - normative spec plan and versioning policy
 - `scripts/validate_repo.py` - documentation/repo hygiene validator
 - `.github/workflows/` - CI and security automation
